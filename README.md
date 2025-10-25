@@ -132,7 +132,7 @@ Using **Python and Google Colab**,The analysis covers customer behavior, product
 **A.Sai Arvind**  
 📊 Data Analyst | Python | Power BI | Excel | SQL  
 📧 **saiarvind5081@gmail.com**  
-🔗 [LinkedIn](www.linkedin.com/in/sai-arvind-13bb921a0)  
+🔗 www.linkedin.com/in/sai-arvind-13bb921a0  
 🔗 [GitHub](https://github.com/Sai-Arvind)
 
 ---
